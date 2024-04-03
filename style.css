@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+p {
+  text-align: top right;
+  color: #050505;
+  color-scheme: fixed;
+  font-size: 50px; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
